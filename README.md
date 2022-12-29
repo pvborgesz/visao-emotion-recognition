@@ -28,3 +28,6 @@ Para pré-processamento, foram realizadas as técnicas:
 
 - Clean data and normalize
 - Data augmentation
+
+Para obter os modelos, basta baixar no drive:
+https://drive.google.com/drive/folders/1CJW--PDiEVqW6ECnx_ClaaY6NwohEcZT?usp=sharing
